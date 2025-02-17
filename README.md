@@ -1,7 +1,7 @@
 <img src="./assets/Untitled.svg" width="100%" />
 <p align="center">
 <a href="https://github.com/Neko-Madoka"><img src="./assets/button1.svg" width="19.5%" /></a>
-<a href="https://github.com/Neko-Madoka"><img src="./assets/button22.svg" width="19.5%" /></a>
+<a href="https://github.com/Neko-Madoka"><img src="./assets/button2.svg" width="19.5%" /></a>
 <a href="https://github.com/Neko-Madoka"><img src="./assets/button3.svg" width="19.5%" /></a>
 <a href="https://github.com/Neko-Madoka"><img src="./assets/button4.svg" width="19.5%" /></a>
 <a href="https://github.com/Neko-Madoka"><img src="./assets/button5.svg" width="19.5%" /></a>
