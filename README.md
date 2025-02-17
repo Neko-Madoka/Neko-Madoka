@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="./assets/Untitled.svg" width="100%" />
 
 <!--
 **Neko-Madoka/Neko-Madoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
